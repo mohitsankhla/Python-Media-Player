@@ -1,6 +1,5 @@
 #!/usr/bin/python
-
-# ---------------- READ ME ---------------------------------------------
+# ---------------- READ ME ------------------
 # This Script is Created Only For Practise And Educational Purpose Only
 # This is an Example Of Tkinter Canvas Graphics
 # This Script Is Created For http://bitforestinfo.blogspot.in
